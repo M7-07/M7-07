@@ -1,3 +1,5 @@
+<div style="background-color: black; color: white; padding: 20px;">
+
 # 💫 About Me:
 I'm a Final year B.Tech student.<br>I am a Full Stack Web Developer.<br>I am also a video and photo editor.<br>Seeking for job opportunities.
 

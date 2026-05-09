@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a Final year B.Tech student.<br>I am a Full Stack Web Developer.<br>I am also a video and photo editor.<br>Seeking for job opportunities.
+Results-driven Consultant with 1+ year of hands-on experience implementing and optimizing Oracle Fusion Cloud (Financials & SCM) for 
+Fortune 500 clients. Delivered a 15x acceleration in enterprise data processing and a 96% reduction in operational task latency through 
+advanced SQL optimization and Python-based automation. Proven leadership managing cross-functional teams of 7 engineers with 100% on
+time project delivery. Skilled in Power BI, OTBI, FBDI, and Python-based data automation, with an Oracle Generative AI certification and a 
+strong foundation in AI/ML project delivery. Seeking to leverage deep ERP expertise and data engineering capabilities in consulting, data 
+analytics, or AI-driven business intelligence roles.
+A coder who loves to develop apps and solve real world problems.
 
 
 ## 🌐 Socials:
